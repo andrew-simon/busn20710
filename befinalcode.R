@@ -11,10 +11,10 @@ data <- filter(data , is.na(data$response) == F) %>%
     treatment %in% c('A1' , 'A2') ~ 2 ,
     treatment %in% c('B1' , 'B2') ~ 1 ,
     treatment %in% c('C1' , 'C2') ~ 0)) %>%
-  # two = 1 if the group was 100,000
-  mutate(two = ifelse(treatment %in% c('A1' , 'B1' , 'C1') , 0 , 1))
+  # groupsize = 1 if the group was 100,000
+  mutate(groupsize = ifelse(treatment %in% c('A1' , 'B1' , 'C1') , 0 , 1))
 
-model <- lm(response ~ two + prop_req + two*prop_req , data = data)
+model <- lm(response ~ groupsize + prop_req + groupsize*prop_req , data = data)
 
 summary(model)
 
