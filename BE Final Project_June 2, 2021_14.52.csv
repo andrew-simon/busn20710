@@ -1,203 +1,201 @@
-StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q1,Q2,1A response,1B response,1,1C response,2a response,2b response,2c response,age,gender,gender_4_TEXT,job,job_6_TEXT,hedge funds,Stocks,Q31,Q33
-Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,What word is written in the image below?,What side of this US dime is shown in this image (Heads or Tails)?,You now face the following choice to either hold your shares or to sell.,You now face the following choice to either hold your shares or to sell.,"You are part of an online community that is interested in buying and selling stocks. The community is made up of 100 individual investors. Together, you have recently coordinated to all purchase shares of a company called Food Co. You currently own 100 shares of Food Co., which you bought at $20/share. The stock price has risen to $350/share.",You now face the following choice to either hold your shares or to sell.,You now face the following choice to either hold your shares or to sell.,You now face the following choice to either hold your shares or to sell.,You now face the following choice to either hold your shares or to sell.,What is your age?,What is your gender? - Selected Choice,What is your gender? - Other - Text,How would you define your job field? - Selected Choice,How would you define your job field? - Other - Text,"On a scale of 1-10, with 1 being the least knowledge and 10 being the most knowledge, how much do you know about hedge funds?","On a scale of 1-10, with 1 being the least knowledge and 10 being the most knowledge, how much do you know about the stock market?","On a scale of 1-10, with 1 being the least knowledge and 10 being the most knowledge, how much do you know about Reddit?",Approximately how much time do you spend on Reddit per week?
-"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID1_TEXT""}","{""ImportId"":""QID2_TEXT""}","{""ImportId"":""QID9""}","{""ImportId"":""QID10""}","{""ImportId"":""QID13_TEXT""}","{""ImportId"":""QID15""}","{""ImportId"":""QID20""}","{""ImportId"":""QID22""}","{""ImportId"":""QID24""}","{""ImportId"":""QID25_TEXT""}","{""ImportId"":""QID26""}","{""ImportId"":""QID26_4_TEXT""}","{""ImportId"":""QID27""}","{""ImportId"":""QID27_6_TEXT""}","{""ImportId"":""QID28_TEXT""}","{""ImportId"":""QID29_TEXT""}","{""ImportId"":""QID31_TEXT""}","{""ImportId"":""QID33_TEXT""}"
-2021-06-02 07:30:54,2021-06-02 07:31:47,Survey Preview,,100,52,True,2021-06-02 07:31:48,R_3dKUN8zBkH7Qr4t,,,,,39.9597015380859375,-75.19950103759765625,preview,EN,Goals,heads,,,,,,Hold your shares,,20,Male,,Health care,,1,1,1,1
-2021-06-02 09:10:52,2021-06-02 09:11:42,IP Address,67.189.129.240,100,50,True,2021-06-02 09:11:43,R_3ls0FQX5tT8acVx,,,,,41.4098052978515625,-73.589996337890625,anonymous,EN,goals,heads,Sell your shares,,,,,,,34,Male,,Finance,,7,7,5,0
-2021-06-02 09:10:53,2021-06-02 09:11:59,IP Address,68.8.163.160,100,66,True,2021-06-02 09:11:59,R_cJeYTSZh4hM5qEx,,,,,32.7104034423828125,-117.05279541015625,anonymous,EN,goals,heads,,Sell your shares,,,,,,39,Male,,Operations,,8,7,9,2
-2021-06-02 09:11:32,2021-06-02 09:12:08,IP Address,67.149.145.170,100,36,True,2021-06-02 09:12:08,R_2v82ItGYK0hXOHQ,,,,,42.5579986572265625,-82.9980010986328125,anonymous,EN,goals,heads,,,,,,Hold your shares,,27,Female,,Operations,,10,10,10,12
-2021-06-02 09:10:53,2021-06-02 09:12:12,IP Address,173.76.88.4,100,79,True,2021-06-02 09:12:12,R_2ts7TBgOzOSmIkZ,,,,,42.124603271484375,-71.114898681640625,anonymous,EN,goals,heads,,,,,Hold your shares,,,20,Female,,Other,Student,1,1,2,0
-2021-06-02 09:11:01,2021-06-02 09:12:13,IP Address,209.159.217.88,100,72,True,2021-06-02 09:12:13,R_2tgJOb0vcIxjLI0,,,,,44.1414947509765625,-103.2052001953125,anonymous,EN,GOALS,heads,,,,Sell your shares,,,,44,Male,,Management,,4,6,4,0
-2021-06-02 09:11:21,2021-06-02 09:12:13,IP Address,98.116.193.189,100,52,True,2021-06-02 09:12:13,R_3RsWBBLTuIqYLxk,,,,,40.948394775390625,-73.73239898681640625,anonymous,EN,GOALS,Heads,,,,,Sell your shares,,,33,Male,,Finance,,10,9,10,5
-2021-06-02 09:11:05,2021-06-02 09:12:13,IP Address,99.157.102.220,100,68,True,2021-06-02 09:12:14,R_3iPyYKK1Dx2txWS,,,,,34.034393310546875,-84.60019683837890625,anonymous,EN,Goals,Heads,,,,Hold your shares,,,,30,Female,,Other,data entry,1,1,3,1
-2021-06-02 09:11:03,2021-06-02 09:12:18,IP Address,76.93.90.65,100,75,True,2021-06-02 09:12:19,R_1nUFrYxI6dmluMZ,,,,,33.945098876953125,-118.081695556640625,anonymous,EN,GOALS,Heads,,,,Sell your shares,,,,39,Male,,Other,Insurance,5,7,10,1
-2021-06-02 09:11:29,2021-06-02 09:12:23,IP Address,12.24.226.198,100,54,True,2021-06-02 09:12:24,R_3Gy7gyx2ERJfZsu,,,,,43.421905517578125,-88.18470001220703125,anonymous,EN,goals,heads,Sell your shares,,,,,,,26,Male,,Other,Insurance,3,4,6,3
-2021-06-02 09:11:25,2021-06-02 09:12:26,IP Address,174.248.42.118,100,61,True,2021-06-02 09:12:26,R_2eUTAt0Wgmr1PVV,,,,,35.9698028564453125,-86.506103515625,anonymous,EN,GOALS,Heads,,,,,,Sell your shares,,51,Female,,Other,Zookeeper,1,1,1,0
-2021-06-02 09:12:03,2021-06-02 09:12:33,IP Address,72.185.190.207,100,29,True,2021-06-02 09:12:33,R_2qmTATOpRAiZtM6,,,,,28.23199462890625,-82.73239898681640625,anonymous,EN,GOALS,HEADS,Sell your shares,,,,,,,47,Male,,Operations,,8,8,5,0
-2021-06-02 09:11:14,2021-06-02 09:12:39,IP Address,96.19.152.205,100,85,True,2021-06-02 09:12:39,R_3Ld3BUXVhtMu15n,,,,,44.07550048828125,-116.9246978759765625,anonymous,EN,goals,heads,,,,,,,Hold your shares,24,Male,,Other,Mturk,2,3,2,1
-2021-06-02 09:11:14,2021-06-02 09:12:43,IP Address,73.10.167.13,100,89,True,2021-06-02 09:12:44,R_3iOI1Kwa2Pyz1L4,,,,,40.5915985107421875,-74.317901611328125,anonymous,EN,GOALS,Heads,,,,,Sell your shares,,,37,Female,,Other,self employed,5,6,7,40
-2021-06-02 09:11:05,2021-06-02 09:12:52,IP Address,70.177.223.254,100,106,True,2021-06-02 09:12:52,R_PNe8PQoSbgau9sl,,,,,36.92010498046875,-76.21219635009765625,anonymous,EN,goals,heads,,Sell your shares,,,,,,37,Female,,Other,"Office/Clerical Work ",1,3,10,3
-2021-06-02 09:11:07,2021-06-02 09:12:55,IP Address,71.71.48.245,100,108,True,2021-06-02 09:12:55,R_0jkbTsuGFaPEJUZ,,,,,35.8220062255859375,-80.26149749755859375,anonymous,EN,GOALS,Heads,,,,,,,Sell your shares,39,Male,,Operations,,8,8,5,1
-2021-06-02 09:11:38,2021-06-02 09:12:56,IP Address,24.75.204.130,100,78,True,2021-06-02 09:12:56,R_1mIOoNGhcaZWMyZ,,,,,38.6154022216796875,-90.2158966064453125,anonymous,EN,Goals,Heads,,Hold your shares,,,,,,49,Male,,Operations,,2,7,2,1
-2021-06-02 09:12:17,2021-06-02 09:12:59,IP Address,68.142.157.4,100,42,True,2021-06-02 09:12:59,R_dgU41Lpt6YSWTmN,,,,,45.0435028076171875,-93.482696533203125,anonymous,EN,goals,heads,,Sell your shares,,,,,,25,Male,,Management,,8,8,9,10
-2021-06-02 09:10:54,2021-06-02 09:13:00,IP Address,68.134.46.91,100,125,True,2021-06-02 09:13:00,R_3kKX7HSg3xSRtQK,,,,,39.4799041748046875,-76.295501708984375,anonymous,EN,goals,Heads,,,,,,,Hold your shares,33,Male,,Operations,,3,5,9,10
-2021-06-02 09:12:14,2021-06-02 09:13:11,IP Address,68.191.107.87,100,57,True,2021-06-02 09:13:12,R_2VaPRzM7uTzmDnD,,,,,34.548492431640625,-87.00360107421875,anonymous,EN,GOALS,Heads,,,,,Sell your shares,,,24,Female,,Other,unemployed,2,2,7,10
-2021-06-02 09:11:25,2021-06-02 09:13:13,IP Address,142.0.211.74,100,107,True,2021-06-02 09:13:13,R_9R02iYQ3KEgDySd,,,,,43.3784027099609375,-116.5457000732421875,anonymous,EN,goals,heads,Hold your shares,,,,,,,33,Female,,Other,customer service,1,2,5,2
-2021-06-02 09:12:19,2021-06-02 09:13:14,IP Address,99.1.33.116,100,55,True,2021-06-02 09:13:14,R_2dzMTPaKm7xpecT,,,,,34.110992431640625,-84.30249786376953125,anonymous,EN,goals,heads,Sell your shares,,,,,,,33,Female,,Management,,2,2,1,1
-2021-06-02 09:12:34,2021-06-02 09:13:20,IP Address,172.221.230.165,100,45,True,2021-06-02 09:13:20,R_3qsNfw70ZPuR1IF,,,,,38.575897216796875,-90.51670074462890625,anonymous,EN,GOALS,Heads,,,,Hold your shares,,,,45,Male,,Finance,,8,9,7,4
-2021-06-02 09:11:52,2021-06-02 09:13:22,IP Address,100.10.68.83,100,89,True,2021-06-02 09:13:22,R_6gIjROcvI58ooqB,,,,,41.7010040283203125,-71.51940155029296875,anonymous,EN,goals,heads,,,,,,,Sell your shares,52,Male,,Other,retired,9,10,3,0
-2021-06-02 09:12:32,2021-06-02 09:13:25,IP Address,100.35.238.3,100,52,True,2021-06-02 09:13:25,R_3KrqPP61V42bbXk,,,,,40.71820068359375,-74.04759979248046875,anonymous,EN,Goals,Heads,,,,Hold your shares,,,,25,Female,,Health care,,3,5,10,4
-2021-06-02 09:11:28,2021-06-02 09:13:29,IP Address,72.43.155.22,100,121,True,2021-06-02 09:13:30,R_2ZP5WZeFVvtifIH,,,,,40.848602294921875,-73.99289703369140625,anonymous,EN,goals,heads,,,,,,Sell your shares,,51,Male,,Other,,1,5,3,5
-2021-06-02 09:11:28,2021-06-02 09:13:34,IP Address,162.83.254.44,100,126,True,2021-06-02 09:13:35,R_1MJOWezU9pgeE2F,,,,,40.8240966796875,-73.89769744873046875,anonymous,EN,GOALS,heads,,,,,,Hold your shares,,32,Male,,Media,,4,5,6,1
-2021-06-02 09:12:49,2021-06-02 09:13:42,IP Address,68.203.6.229,100,52,True,2021-06-02 09:13:42,R_1LqxbXgYbMDvgWL,,,,,30.454803466796875,-97.7664031982421875,anonymous,EN,Goals,Heads,,,,,Hold your shares,,,37,Female,,Health care,,1,2,6,6
-2021-06-02 09:12:32,2021-06-02 09:13:42,IP Address,108.244.108.104,100,69,True,2021-06-02 09:13:42,R_1F5Iol5eSOd1ViV,,,,,29.395904541015625,-98.47609710693359375,anonymous,EN,GOALS,Heads,Sell your shares,,,,,,,35,Non-binary,,Health care,,2,3,9,1
-2021-06-02 09:12:35,2021-06-02 09:13:47,IP Address,24.90.218.33,100,72,True,2021-06-02 09:13:48,R_2ctEXEwYwCRGA9E,,,,,40.7122955322265625,-73.79850006103515625,anonymous,EN,Goals,Heads,,,,Sell your shares,,,,24,Male,,Finance,,6,7,10,2
-2021-06-02 09:13:24,2021-06-02 09:13:58,IP Address,67.240.54.169,100,33,True,2021-06-02 09:13:58,R_R7XtRHMKJSiHYxX,,,,,42.7729949951171875,-73.71109771728515625,anonymous,EN,goals,heads,,,,,Hold your shares,,,33,Female,,Health care,,1,1,9,2
-2021-06-02 09:12:56,2021-06-02 09:14:02,IP Address,66.116.1.238,100,66,True,2021-06-02 09:14:03,R_23KJ2hDyenRrMQ1,,,,,39.484893798828125,-88.1804962158203125,anonymous,EN,goals,heads,,,,,,Sell your shares,,39,Male,,Operations,,3,3,9,15
-2021-06-02 09:12:50,2021-06-02 09:14:06,IP Address,96.60.46.51,100,75,True,2021-06-02 09:14:06,R_2rN1SR9YPuH2llR,,,,,44.8000946044921875,-89.68630218505859375,anonymous,EN,GOALS,Heads,,Sell your shares,,,,,,25,Male,,Operations,,4,4,8,20
-2021-06-02 09:13:21,2021-06-02 09:14:07,IP Address,71.232.74.222,100,46,True,2021-06-02 09:14:08,R_UcGAaJ4AD8krReh,,,,,42.652496337890625,-71.92569732666015625,anonymous,EN,GOALS,Heads,,,,,Sell your shares,,,31,Male,,Finance,,7,8,9,3
-2021-06-02 09:13:02,2021-06-02 09:14:10,IP Address,173.218.215.250,100,67,True,2021-06-02 09:14:10,R_3iC55qIavLUDgtj,,,,,39.264007568359375,-81.533203125,anonymous,EN,Goals,Heads,,Sell your shares,,,,,,42,Male,,Finance,,5,5,5,2
-2021-06-02 09:13:01,2021-06-02 09:14:11,IP Address,98.214.234.47,100,70,True,2021-06-02 09:14:11,R_sGVNSXlp9YDa4x3,,,,,39.861602783203125,-88.9355010986328125,anonymous,EN,GOALS,Heads,,,,,,,Hold your shares,46,Male,,Other,freelance,7,9,8,3
-2021-06-02 09:11:36,2021-06-02 09:14:40,IP Address,66.68.239.61,100,183,True,2021-06-02 09:14:40,R_2VjwwYUOYZJmsMa,,,,,26.2147979736328125,-98.2310028076171875,anonymous,EN,GOALS,heads,,Hold your shares,,,,,,48,Female,,Other,education,1,1,1,0
-2021-06-02 09:13:47,2021-06-02 09:14:41,IP Address,75.83.84.2,100,53,True,2021-06-02 09:14:41,R_23fSE4rXB12Cv5m,,,,,34.1851043701171875,-118.770599365234375,anonymous,EN,GOALS,Heads,,,,,,,Hold your shares,32,Male,,Media,,6,7,7,5
-2021-06-02 09:13:19,2021-06-02 09:14:55,IP Address,173.19.230.133,100,96,True,2021-06-02 09:14:56,R_3FX39FikxD17MWa,,,,,37.166107177734375,-93.24579620361328125,anonymous,EN,GOALS,Heads,Hold your shares,,,,,,,58,Female,,Other,Retired Construction Superintendant,1,3,3,1
-2021-06-02 09:11:59,2021-06-02 09:14:56,IP Address,98.10.44.12,100,177,True,2021-06-02 09:14:56,R_2BzClF2qfauEbSG,,,,,43.0800933837890625,-77.6342010498046875,anonymous,EN,GOALS,heads,Hold your shares,,,,,,,34,Male,,Media,,8,6,7,9
-2021-06-02 09:14:10,2021-06-02 09:15:02,IP Address,24.18.153.117,100,52,True,2021-06-02 09:15:02,R_2vdIz0FyLC1F4c3,,,,,47.3235931396484375,-122.318695068359375,anonymous,EN,GOALS,Heads,,,,Sell your shares,,,,30,Male,,Other,gig worker,1,2,8,7
-2021-06-02 09:13:39,2021-06-02 09:15:04,IP Address,108.217.89.35,100,84,True,2021-06-02 09:15:04,R_DGe34TNIHEflTTX,,,,,40.09820556640625,-83.15799713134765625,anonymous,EN,goals,heads,,,,,,Hold your shares,,31,Male,,Management,,7,7,9,15
-2021-06-02 09:13:53,2021-06-02 09:15:07,IP Address,75.67.206.167,100,73,True,2021-06-02 09:15:08,R_9zScj3pJWtE1ndn,,,,,41.7465057373046875,-70.591400146484375,anonymous,EN,Goals,Heads,,,,,,,Hold your shares,35,Female,,Media,,1,1,10,3
-2021-06-02 09:14:06,2021-06-02 09:15:08,IP Address,73.152.121.202,100,62,True,2021-06-02 09:15:08,R_1rArndYzC5BTBVf,,,,,38.45550537109375,-77.4326019287109375,anonymous,EN,GOALS,Heads,,,,,Sell your shares,,,26,Female,,Operations,,1,2,1,0
-2021-06-02 09:13:11,2021-06-02 09:15:09,IP Address,99.99.197.153,100,118,True,2021-06-02 09:15:10,R_21jjUNM5rUQBhYj,,,,,32.6587066650390625,-97.1616973876953125,anonymous,EN,goals,heads,,,,,,Hold your shares,,51,Male,,Other,Education,3,5,7,6
-2021-06-02 09:13:23,2021-06-02 09:15:13,IP Address,172.88.94.161,100,109,True,2021-06-02 09:15:13,R_31SIOXZB5EQN4pc,,,,,33.751800537109375,-117.993194580078125,anonymous,EN,Goals,Heads,,Sell your shares,,,,,,44,Male,,Operations,,1,5,6,3
-2021-06-02 09:12:34,2021-06-02 09:15:21,IP Address,107.181.166.138,100,166,True,2021-06-02 09:15:21,R_2xA7Yn2JFrssnbH,,,,,37.7808990478515625,-122.42449951171875,anonymous,EN,GOALS,HEAD,,,,,,,Sell your shares,27,Female,,Health care,,5,5,8,3
-2021-06-02 09:14:11,2021-06-02 09:15:25,IP Address,71.78.115.85,100,73,True,2021-06-02 09:15:25,R_2SBlB261sQZfVcb,,,,,33.0756988525390625,-96.7826995849609375,anonymous,EN,Goals,Heads,Sell your shares,,,,,,,44,Male,,Finance,,5,9,10,10
-2021-06-02 09:13:43,2021-06-02 09:15:29,IP Address,47.156.185.146,100,106,True,2021-06-02 09:15:29,R_1BQwI8Gs5aZ3ZBO,,,,,33.8307952880859375,-118.1125030517578125,anonymous,EN,GOALS,Heads,Hold your shares,,,,,,,50,Male,,Management,,7,9,5,0
-2021-06-02 09:14:08,2021-06-02 09:15:30,IP Address,173.91.17.128,100,81,True,2021-06-02 09:15:30,R_1mUSsu9fPYCTVY8,,,,,41.4951019287109375,-81.4656982421875,anonymous,EN,goals,heads,,,,,,Sell your shares,,45,Male,,Other,artist and agriculture,5,6,6,1
-2021-06-02 09:14:16,2021-06-02 09:15:41,IP Address,134.215.21.27,100,84,True,2021-06-02 09:15:41,R_3JJie7NX4nkvmkM,,,,,36.186798095703125,-86.5066986083984375,anonymous,EN,GOALS,Heads,,,,,,Sell your shares,,36,Male,,Management,,5,6,7,10
-2021-06-02 09:13:30,2021-06-02 09:16:02,IP Address,68.98.11.211,100,151,True,2021-06-02 09:16:02,R_1li7t9Sfp6CvvGm,,,,,33.5988006591796875,-111.8795013427734375,anonymous,EN,GOALS,Heads,,,,Sell your shares,,,,46,Male,,Other,Retail,4,5,4,4
-2021-06-02 09:14:30,2021-06-02 09:16:12,IP Address,64.251.54.244,100,102,True,2021-06-02 09:16:12,R_3OjGpN727Ortrla,,,,,41.3907928466796875,-73.44830322265625,anonymous,EN,GOALS,Heads,,,,Hold your shares,,,,34,Male,,Other,Education,3,7,5,1
-2021-06-02 09:13:54,2021-06-02 09:16:30,IP Address,98.162.197.184,100,155,True,2021-06-02 09:16:31,R_1Nky5ht0gTEc3wP,,,,,35.6678924560546875,-97.47949981689453125,anonymous,EN,Goals,Heads,,Sell your shares,,,,,,35,Male,,Other,,7,9,8,15
-2021-06-02 09:15:51,2021-06-02 09:17:02,IP Address,45.51.176.67,100,71,True,2021-06-02 09:17:02,R_30rbDSomnCmJRxz,,,,,33.884002685546875,-117.89410400390625,anonymous,EN,GOALS,Heads,Hold your shares,,,,,,,39,Male,,Health care,,5,5,10,14
-2021-06-02 09:15:48,2021-06-02 09:17:03,IP Address,47.28.230.149,100,74,True,2021-06-02 09:17:03,R_2aFWF5fkDfL9vXr,,,,,41.1033935546875,-104.9058990478515625,anonymous,EN,GOALS,Heads,,,,,Sell your shares,,,44,Male,,Health care,,4,7,8,0
-2021-06-02 09:15:40,2021-06-02 09:17:08,IP Address,68.81.42.79,100,88,True,2021-06-02 09:17:09,R_2y1TtvcqVQNpczG,,,,,40.268402099609375,-75.39029693603515625,anonymous,EN,GOALS,Heads,,,,,,,Hold your shares,62,Female,,Other,not employed,1,5,1,0
-2021-06-02 09:16:10,2021-06-02 09:17:14,IP Address,66.172.203.23,100,64,True,2021-06-02 09:17:14,R_YPNo8cyPicE0Rvr,,,,,41.8910980224609375,-94.68470001220703125,anonymous,EN,GOALS,Heads,,,,Sell your shares,,,,39,Female,,Finance,,5,10,10,5
-2021-06-02 09:15:49,2021-06-02 09:17:34,IP Address,165.225.8.74,100,105,True,2021-06-02 09:17:35,R_2PeeIhb5bGB843z,,,,,40.1215057373046875,-75.32689666748046875,anonymous,EN,goals,heads,,,,,,,Hold your shares,36,Female,,Finance,,2,5,2,0
-2021-06-02 09:15:05,2021-06-02 09:17:55,IP Address,47.37.214.174,100,169,True,2021-06-02 09:17:55,R_C78K0zY0m6yNf7H,,,,,35.6013946533203125,-82.489501953125,anonymous,EN,goals,heads,,,,,Hold your shares,,,35,Male,,Other,Law Enforcement,1,3,10,30
-2021-06-02 09:15:18,2021-06-02 09:18:03,IP Address,65.26.19.10,100,164,True,2021-06-02 09:18:03,R_29gnKQ0NYQopQ6X,,,,,38.9944000244140625,-94.67330169677734375,anonymous,EN,GOALS,heads,,,,,,,Sell your shares,62,Female,,Other,data,1,1,2,1
-2021-06-02 09:16:22,2021-06-02 09:18:05,IP Address,216.198.122.62,100,103,True,2021-06-02 09:18:06,R_2ymFW2fyjtCPCHI,,,,,34.2588043212890625,-86.03060150146484375,anonymous,EN,GOALS,Heads,,,,,,Sell your shares,,37,Female,,Finance,,7,8,6,2
-2021-06-02 09:15:37,2021-06-02 09:18:12,IP Address,97.89.28.71,100,154,True,2021-06-02 09:18:12,R_eyyLoDfV1Njo6hH,,,,,34.30889892578125,-83.82489776611328125,anonymous,EN,GOALS,heads,,Hold your shares,,,,,,68,Male,,Management,,7,9,9,3
-2021-06-02 09:16:21,2021-06-02 09:18:12,IP Address,66.190.98.245,100,111,True,2021-06-02 09:18:13,R_125XXYlC9xNJNYa,,,,,32.640106201171875,-97.54740142822265625,anonymous,EN,goals,heads,Hold your shares,,,,,,,46,Male,,Operations,,2,2,2,1
-2021-06-02 09:14:11,2021-06-02 09:18:14,IP Address,64.72.108.74,100,243,True,2021-06-02 09:18:14,R_1IAThsha3Yn7c7U,,,,,36.1472015380859375,-115.11750030517578125,anonymous,EN,GOALS,Heads,,,,,,Hold your shares,,30,Male,,Other,Unemployed,1,4,10,5
-2021-06-02 09:15:53,2021-06-02 09:18:21,IP Address,184.20.59.73,100,148,True,2021-06-02 09:18:22,R_3I3unQ5XN0LQPW5,,,,,38.714202880859375,-90.27590179443359375,anonymous,EN,goals,heads,,Hold your shares,,,,,,41,Female,,Other,freelancer,1,3,7,5
-2021-06-02 09:16:39,2021-06-02 09:18:24,IP Address,107.128.117.18,100,105,True,2021-06-02 09:18:24,R_3jVA7z4L2dXgzj5,,,,,29.72149658203125,-95.3159027099609375,anonymous,EN,GOALS,Heads,,,,,Sell your shares,,,24,Female,,Management,,3,5,9,3
-2021-06-02 09:16:57,2021-06-02 09:18:28,IP Address,73.247.140.237,100,91,True,2021-06-02 09:18:29,R_3jYSIQCLL28DbMa,,,,,42.293701171875,-89.63539886474609375,anonymous,EN,GOALS,Heads,,Hold your shares,,,,,,44,Male,,Other,skilled trades,3,5,6,20
-2021-06-02 09:17:37,2021-06-02 09:18:30,IP Address,8.40.49.210,100,53,True,2021-06-02 09:18:31,R_12JS2NMm9s6xsRQ,,,,,36.2801971435546875,-81.51149749755859375,anonymous,EN,goals,heads,,Sell your shares,,,,,,29,Male,,Media,,6,7,9,2
-2021-06-02 09:15:58,2021-06-02 09:18:31,IP Address,172.58.140.146,100,153,True,2021-06-02 09:18:31,R_xhYlJ4C71t7hq49,,,,,41.7696990966796875,-87.6985015869140625,anonymous,EN,GOALS,Heads,,,,Hold your shares,,,,67,Female,,Other,retired,3,7,5,2
-2021-06-02 09:18:03,2021-06-02 09:18:47,IP Address,99.88.62.63,100,44,True,2021-06-02 09:18:47,R_3OqALuLYQ0bMMIj,,,,,29.3831024169921875,-98.39600372314453125,anonymous,EN,GOALS,Heads,,,,,,Hold your shares,,42,Female,,Finance,,7,8,4,0
-2021-06-02 09:17:16,2021-06-02 09:18:51,IP Address,199.168.73.97,100,95,True,2021-06-02 09:18:52,R_3iOwVZaprXs7MqT,,,,,37.985504150390625,-84.5803985595703125,anonymous,EN,goals,heads,,,,,,,Hold your shares,54,Female,,Operations,,1,3,1,0
-2021-06-02 09:17:54,2021-06-02 09:18:56,IP Address,70.172.233.94,100,61,True,2021-06-02 09:18:56,R_3R7mqOxKesyYYqm,,,,,30.3927001953125,-91.00140380859375,anonymous,EN,GOALS,Heads,,,,,Sell your shares,,,26,Female,,Health care,,2,6,4,1
-2021-06-02 09:18:09,2021-06-02 09:19:08,IP Address,73.161.249.109,100,58,True,2021-06-02 09:19:08,R_1kTZIxpLM0o66YO,,,,,42.5579986572265625,-82.9980010986328125,anonymous,EN,goals,heads,Sell your shares,,,,,,,33,Female,,Other,manufacturing,1,1,5,1
-2021-06-02 09:15:41,2021-06-02 09:19:09,IP Address,174.198.142.201,100,207,True,2021-06-02 09:19:10,R_3gMK7CgstSY7Tqf,,,,,39.6959991455078125,-105.03459930419921875,anonymous,EN,GOALS,Heads,,,,Sell your shares,,,,40,Female,,Finance,,3,5,5,0
-2021-06-02 09:18:16,2021-06-02 09:19:15,IP Address,67.130.123.247,100,58,True,2021-06-02 09:19:15,R_re7W9I8kLbhEiJj,,,,,39.083099365234375,-94.585296630859375,anonymous,EN,GOALS,Heads,,Sell your shares,,,,,,34,Male,,Finance,,8,9,7,10
-2021-06-02 09:18:17,2021-06-02 09:19:18,IP Address,173.73.242.160,100,61,True,2021-06-02 09:19:18,R_bpvc7bRaq5cdv33,,,,,39.1089935302734375,-77.2489013671875,anonymous,EN,GOALS,HEADS,,,,,,,Sell your shares,45,Male,,Other,EDUCATION,1,3,5,30
-2021-06-02 09:18:28,2021-06-02 09:19:23,IP Address,76.114.96.40,100,54,True,2021-06-02 09:19:23,R_2zoHudX4H4guBwU,,,,,36.186798095703125,-86.5066986083984375,anonymous,EN,Goals,Heads,,,,,Sell your shares,,,30,Male,,Other,Nonprofit,7,8,7,0.5
-2021-06-02 09:18:27,2021-06-02 09:19:25,IP Address,45.46.227.202,100,57,True,2021-06-02 09:19:25,R_2zOQN5f4DZMjzmp,,,,,42.6654052734375,-77.062103271484375,anonymous,EN,GOALS,Heads,,,,,,Sell your shares,,37,Male,,Health care,,7,7,7,120
-2021-06-02 09:17:58,2021-06-02 09:19:27,IP Address,98.194.53.74,100,89,True,2021-06-02 09:19:28,R_2wjAC55enGCIpQm,,,,,29.738800048828125,-95.830902099609375,anonymous,EN,GOALS,Heads,,,,Sell your shares,,,,25,Male,,Other,Student,3,3,8,6
-2021-06-02 09:18:47,2021-06-02 09:19:40,IP Address,68.194.145.244,100,53,True,2021-06-02 09:19:41,R_p6KSgLclQR0oZ1v,,,,,40.864593505859375,-73.898101806640625,anonymous,EN,goals,heads,,,,,,Sell your shares,,25,Male,,Other,Education,6,8,8,4
-2021-06-02 09:18:01,2021-06-02 09:19:50,IP Address,73.156.226.169,100,109,True,2021-06-02 09:19:50,R_3rxvqSP9QpxDAYx,,,,,26.6291961669921875,-81.9680023193359375,anonymous,EN,GOALS,HEADS,Hold your shares,,,,,,,64,Female,,Other,ADMINISTRATION,1,2,5,1
-2021-06-02 09:18:50,2021-06-02 09:19:55,IP Address,73.19.181.11,100,64,True,2021-06-02 09:19:55,R_3HFi7jS7a12kqQO,,,,,30.4907989501953125,-84.31580352783203125,anonymous,EN,GOALS,Heads,,,,,,,Sell your shares,38,Female,,Other,Homemaker,8,8,7,5
-2021-06-02 09:19:10,2021-06-02 09:20:09,IP Address,64.201.66.58,100,58,True,2021-06-02 09:20:09,R_2QreebSRrebBiFP,,,,,42.588104248046875,-88.4553985595703125,anonymous,EN,Goals,Heads,,,,,Sell your shares,,,31,Male,,Management,,6,7,2,0
-2021-06-02 09:19:26,2021-06-02 09:20:29,IP Address,74.69.230.139,100,63,True,2021-06-02 09:20:30,R_2bZ43rxjErdEi6S,,,,,42.9629974365234375,-72.29290008544921875,anonymous,EN,GOALS,Heads,Sell your shares,,,,,,,26,Female,,Health care,,1,1,9,5
-2021-06-02 09:18:32,2021-06-02 09:21:07,IP Address,108.160.232.238,100,155,True,2021-06-02 09:21:07,R_3CZ4xVPk8nhyWXv,,,,,41.7440948486328125,-91.61319732666015625,anonymous,EN,goals,heads,,,,Hold your shares,,,,50,Male,,Health care,,1,3,1,0
-2021-06-02 09:20:14,2021-06-02 09:21:09,IP Address,72.214.42.40,100,54,True,2021-06-02 09:21:09,R_UcPjlMzOGzO6JzP,,,,,38.3000030517578125,-77.47389984130859375,anonymous,EN,goals,heads,,,,,,,Sell your shares,20,Male,,Other,,2,3,9,1
-2021-06-02 09:20:04,2021-06-02 09:21:16,IP Address,71.234.233.198,100,71,True,2021-06-02 09:21:17,R_10TW65s8Qp8MWLC,,,,,41.318603515625,-72.93019866943359375,anonymous,EN,goals,Heads,Hold your shares,,,,,,,30,Male,,Finance,,8,9,5,0
-2021-06-02 09:20:08,2021-06-02 09:21:31,IP Address,67.11.91.96,100,83,True,2021-06-02 09:21:32,R_2VdzE1qU8e3yt34,,,,,32.6956939697265625,-97.0906982421875,anonymous,EN,GOALS,Heads,,,,,Sell your shares,,,38,Male,,Operations,,4,5,6,1
-2021-06-02 09:19:35,2021-06-02 09:21:32,IP Address,71.112.197.55,100,117,True,2021-06-02 09:21:32,R_3MMaXhYJLxk0FHI,,,,,40.53460693359375,-79.88050079345703125,anonymous,EN,GOALS,heads,,,,,Sell your shares,,,30,Male,,Operations,,2,4,3,0
-2021-06-02 09:21:08,2021-06-02 09:21:49,IP Address,98.212.13.94,100,40,True,2021-06-02 09:21:49,R_1n1iViAMcMb6Ny1,,,,,41.50390625,-88.21520233154296875,anonymous,EN,goals,Heads,Hold your shares,,,,,,,26,Female,,Operations,,4,4,4,2
-2021-06-02 09:20:59,2021-06-02 09:22:04,IP Address,73.173.103.253,100,65,True,2021-06-02 09:22:05,R_2c6Li6biAqO4IKD,,,,,39.21240234375,-76.87760162353515625,anonymous,EN,Goals,Heads,,,,,,,Sell your shares,27,Male,,Other,Crowdworker,4,7,9,20
-2021-06-02 09:21:01,2021-06-02 09:22:17,IP Address,24.166.31.177,100,75,True,2021-06-02 09:22:17,R_sGvy94xrpLfkF6F,,,,,39.6822967529296875,-84.15940093994140625,anonymous,EN,goals,heads,,Sell your shares,,,,,,32,Male,,Health care,,1,3,7,10
-2021-06-02 09:20:22,2021-06-02 09:22:17,IP Address,67.172.211.135,100,114,True,2021-06-02 09:22:17,R_12friAm1XDpF6T4,,,,,38.3795928955078125,-77.5348968505859375,anonymous,EN,goals,heads,,Sell your shares,,,,,,20,Male,,Finance,,7,8,8,10
-2021-06-02 09:20:32,2021-06-02 09:22:19,IP Address,98.5.202.151,100,107,True,2021-06-02 09:22:19,R_3Kwrk4Uh7jm0Mlx,,,,,42.8860931396484375,-78.745697021484375,anonymous,EN,GOALS,Heads,,,okay,Hold your shares,,,,31,Male,,Management,,4,4,5,2
-2021-06-02 09:18:01,2021-06-02 09:22:24,IP Address,75.128.240.53,100,263,True,2021-06-02 09:22:24,R_paWFHQ1no2W36eJ,,,,,42.671295166015625,-89.0070037841796875,anonymous,EN,GOALS,Heads,,Sell your shares,,,,,,74,Male,,Other,Retired Computer Programmer,1,2,1,0
-2021-06-02 09:21:55,2021-06-02 09:22:44,IP Address,142.196.243.188,100,49,True,2021-06-02 09:22:45,R_1msXdnzBYJGGd0S,,,,,28.65289306640625,-81.210601806640625,anonymous,EN,GOALS,Heads,,Sell your shares,,,,,,24,Male,,Finance,,8,8,5,0
-2021-06-02 09:20:28,2021-06-02 09:23:13,IP Address,70.179.223.12,100,165,True,2021-06-02 09:23:13,R_OqZt8NW7nOLSn3r,,,,,37.67889404296875,-97.42690277099609375,anonymous,EN,GOALS,Heads,,,,Sell your shares,,,,54,Female,,Other,Sales,1,1,8,2
-2021-06-02 09:22:47,2021-06-02 09:23:56,IP Address,172.56.17.34,100,68,True,2021-06-02 09:23:56,R_pRGnJYP9m1pFQTD,,,,,33.948394775390625,-118.249298095703125,anonymous,EN,GOALS,Heads,,,,,,,Hold your shares,44,Male,,Operations,,1,4,4,0
-2021-06-02 09:21:12,2021-06-02 09:24:02,IP Address,160.3.100.205,100,170,True,2021-06-02 09:24:03,R_1CwEUwzYPvUIH0E,,,,,32.872802734375,-109.78749847412109375,anonymous,EN,GOALS,Heads,Sell your shares,,,,,,,41,Male,,Other,graphic design,3,4,6,3
-2021-06-02 09:23:09,2021-06-02 09:24:04,IP Address,73.198.13.141,100,55,True,2021-06-02 09:24:04,R_3CUe61nzQhEDd3S,,,,,39.3773040771484375,-74.61229705810546875,anonymous,EN,GOALS,Heads,,,,,,Hold your shares,,28,Male,,Operations,,2,3,9,8
-2021-06-02 09:23:08,2021-06-02 09:24:11,IP Address,96.81.9.49,100,62,True,2021-06-02 09:24:11,R_8bMsCmkGHGahxXb,,,,,30.687896728515625,-88.0457000732421875,anonymous,EN,GOALS,Heads,,,,,Sell your shares,,,29,Male,,Other,Law,7,8,6,1
-2021-06-02 09:20:01,2021-06-02 09:24:29,IP Address,76.185.187.47,100,267,True,2021-06-02 09:24:29,R_bpaPaZlHawdTskh,,,,,29.4246978759765625,-98.46209716796875,anonymous,EN,GOALS,Heads,,,,,,Hold your shares,,40,Male,,Other,it,4,6,10,5
-2021-06-02 09:21:03,2021-06-02 09:24:36,IP Address,68.187.43.5,100,212,True,2021-06-02 09:24:36,R_3Eim3wWRCqCjOR0,,,,,32.744598388671875,-97.3842010498046875,anonymous,EN,goals,heads,,,,,,Hold your shares,,33,Male,,Management,,1,3,7,4
-2021-06-02 09:23:44,2021-06-02 09:25:09,IP Address,70.122.164.247,100,84,True,2021-06-02 09:25:10,R_3M3bNih2rJ2Q4s1,,,,,32.9102935791015625,-96.728302001953125,anonymous,EN,GOALS,Heads,,Sell your shares,,,,,,26,Male,,Other,service/entertainment (music performer),1,2,5,21
-2021-06-02 09:22:53,2021-06-02 09:25:37,IP Address,69.204.203.248,100,163,True,2021-06-02 09:25:37,R_3JsEyctb440aibW,,,,,42.9380035400390625,-74.185302734375,anonymous,EN,goals,heads,,,,Hold your shares,,,,26,Male,,Other,Unemployed,2,5,8,12
-2021-06-02 09:24:38,2021-06-02 09:25:47,IP Address,24.45.72.173,100,69,True,2021-06-02 09:25:47,R_21pnyoQF50MP7N4,,,,,40.90679931640625,-74.36150360107421875,anonymous,EN,GOALS,Heads,,,,,,Hold your shares,,20,Male,,Finance,,8,7,8,2
-2021-06-02 09:24:01,2021-06-02 09:25:51,IP Address,24.116.141.253,100,110,True,2021-06-02 09:25:51,R_2axBxJwUELaxz4A,,,,,43.613800048828125,-116.3972015380859375,anonymous,EN,goals,heads,,,,Sell your shares,,,,35,Male,,Other,law student,6,8,10,5
-2021-06-02 09:25:06,2021-06-02 09:26:17,IP Address,173.26.139.190,100,70,True,2021-06-02 09:26:17,R_3nP1bQVk4hs2c2Z,,,,,37.2566986083984375,-93.294403076171875,anonymous,EN,GOALS,Heads,Sell your shares,,,,,,,40,Male,,Other,Retail,3,5,7,1
-2021-06-02 09:26:57,2021-06-02 09:27:36,IP Address,50.238.174.58,100,38,True,2021-06-02 09:27:36,R_PTIBf4vfnoodEad,,,,,42.898406982421875,-85.72229766845703125,anonymous,EN,Goals,Heads,,,,,,Hold your shares,,19,Male,,Operations,,7,7,1,0
-2021-06-02 09:26:44,2021-06-02 09:27:43,IP Address,71.230.1.104,100,58,True,2021-06-02 09:27:44,R_31EQJF28nj2O62m,,,,,40.0558013916015625,-75.077301025390625,anonymous,EN,goals,heads,,Hold your shares,,,,,,37,Male,,Other,disabled,1,3,9,5
-2021-06-02 09:26:44,2021-06-02 09:27:45,IP Address,74.192.55.30,100,61,True,2021-06-02 09:27:45,R_1j9XOzRLrSIRfX0,,,,,35.270294189453125,-101.94300079345703125,anonymous,EN,goals,heads,Hold your shares,,,,,,,25,Female,,Management,,1,5,7,5
-2021-06-02 09:26:29,2021-06-02 09:27:58,IP Address,97.87.36.219,100,89,True,2021-06-02 09:27:58,R_3ELUsAHuc3nsaXx,,,,,36.1985015869140625,-81.1352996826171875,anonymous,EN,goals,heads,,,,,,,Hold your shares,41,Female,,Other,mTurk freelancer,1,6,7,1
-2021-06-02 09:27:01,2021-06-02 09:27:58,IP Address,76.31.246.35,100,57,True,2021-06-02 09:27:59,R_1XhzCY6ysNVVnCV,,,,,29.7678985595703125,-94.9723968505859375,anonymous,EN,GOALS,Heads,,,,,,,Hold your shares,25,Male,,Other,food services,8,8,5,4
-2021-06-02 09:27:40,2021-06-02 09:28:45,IP Address,67.86.188.84,100,64,True,2021-06-02 09:28:45,R_10owedPuv1QGD2Y,,,,,40.20660400390625,-74.07270050048828125,anonymous,EN,GOALS,Heads,,,,,Sell your shares,,,48,Male,,Health care,,5,8,1,0
-2021-06-02 09:27:42,2021-06-02 09:28:48,IP Address,172.56.26.186,100,65,True,2021-06-02 09:28:48,R_1pYcamUBXpCzd6m,,,,,30.2754974365234375,-81.5814971923828125,anonymous,EN,goals,heads,,,,,Sell your shares,,,40,Male,,Finance,,7,8,10,10
-2021-06-02 09:26:25,2021-06-02 09:29:08,IP Address,23.241.156.77,100,163,True,2021-06-02 09:29:08,R_1rkRdAEky7Zp0Mo,,,,,33.8856964111328125,-117.7277984619140625,anonymous,EN,Goals,heads,,,,,Hold your shares,,,52,Male,,Operations,,2,4,3,0
-2021-06-02 09:27:57,2021-06-02 09:29:13,IP Address,76.25.67.198,100,75,True,2021-06-02 09:29:13,R_3Mtb7tfbSDtkkK8,,,,,39.8419952392578125,-105.11009979248046875,anonymous,EN,goals,heads,,,,,,Sell your shares,,35,Male,,Other,Freelancer,3,4,6,1
-2021-06-02 09:28:24,2021-06-02 09:29:51,IP Address,98.224.141.219,100,86,True,2021-06-02 09:29:51,R_3sgzOd1wDa9Jj1d,,,,,42.238494873046875,-83.1782989501953125,anonymous,EN,GOALS,Heads,Sell your shares,,,,,,,27,Male,,Other,Unemployed,2,3,8,16
-2021-06-02 09:28:53,2021-06-02 09:30:12,IP Address,172.90.150.98,100,79,True,2021-06-02 09:30:12,R_1NsNERiBj7IDUQh,,,,,33.744293212890625,-116.9763946533203125,anonymous,EN,goals,heads,,Hold your shares,,,,,,33,Male,,Operations,,3,4,5,10
-2021-06-02 09:27:27,2021-06-02 09:30:27,IP Address,73.56.21.167,100,179,True,2021-06-02 09:30:27,R_3GD5ViWlISjFaHC,,,,,27.2913055419921875,-80.297698974609375,anonymous,EN,goals,heads,,,,Hold your shares,,,,33,Male,,Health care,,7,6,7,2
-2021-06-02 09:29:35,2021-06-02 09:30:39,IP Address,108.35.36.201,100,63,True,2021-06-02 09:30:39,R_120c4FGan3pEfIn,,,,,40.9734954833984375,-73.96070098876953125,anonymous,EN,GOALS,Heads,,Hold your shares,,,,,,35,Male,,Other,arts,6,5,10,3
-2021-06-02 09:29:26,2021-06-02 09:30:57,IP Address,24.10.48.19,100,91,True,2021-06-02 09:30:57,R_2z7sGLYwgilXHLH,,,,,38.495697021484375,-121.5348052978515625,anonymous,EN,GOALS,heads,,,,Hold your shares,,,,31,Female,,Management,,1,2,8,20
-2021-06-02 09:28:08,2021-06-02 09:31:04,IP Address,97.95.237.122,100,176,True,2021-06-02 09:31:04,R_11Xc7UsDcLcN6N6,,,,,34.5251007080078125,-82.63069915771484375,anonymous,EN,goals,heads,,,,,,,Hold your shares,72,Female,,Other,RETIRED,3,7,1,0
-2021-06-02 09:29:11,2021-06-02 09:31:13,IP Address,69.251.137.31,100,121,True,2021-06-02 09:31:13,R_XsTEXEic7Vq3kNr,,,,,39.433197021484375,-76.65460205078125,anonymous,EN,Goals,Heads,Sell your shares,,,,,,,25,Male,,Health care,,3,5,8,6
-2021-06-02 09:29:12,2021-06-02 09:31:19,IP Address,67.61.164.186,100,126,True,2021-06-02 09:31:20,R_1i2scUXZGTKWcdR,,,,,35.882293701171875,-101.9680023193359375,anonymous,EN,GOALS,Heads,,,,,Hold your shares,,,24,Female,,Operations,,1,2,8,10
-2021-06-02 09:30:03,2021-06-02 09:31:50,IP Address,76.180.67.64,100,107,True,2021-06-02 09:31:50,R_RCwxfUw4J6tpzdT,,,,,42.9297027587890625,-78.74340057373046875,anonymous,EN,goals,heads,,,,,,,Hold your shares,32,Male,,Other,Math,3,6,10,7
-2021-06-02 09:29:24,2021-06-02 09:31:51,IP Address,173.168.103.71,100,147,True,2021-06-02 09:31:51,R_3G7zp05O7lfuHiU,,,,,28.479705810546875,-82.5561981201171875,anonymous,EN,GOALS,Heads,,,,,,Hold your shares,,71,Female,,Other,retired,2,6,3,0
-2021-06-02 09:27:08,2021-06-02 09:32:03,IP Address,167.142.53.78,100,294,True,2021-06-02 09:32:04,R_2zTiCLjFnf5CO3J,,,,,41.6072998046875,-93.53079986572265625,anonymous,EN,Goals,Heads,,,,Hold your shares,,,,37,Male,,Finance,,2,4,4,2
-2021-06-02 09:31:52,2021-06-02 09:33:11,IP Address,174.206.69.54,100,78,True,2021-06-02 09:33:11,R_2v6OUyfXIQQZdIR,,,,,36.8365936279296875,-76.1623992919921875,anonymous,EN,goals,heads,,,,,,Hold your shares,,34,Male,,Operations,,1,2,7,30
-2021-06-02 09:32:50,2021-06-02 09:34:16,IP Address,68.105.70.212,100,86,True,2021-06-02 09:34:16,R_ZpCEEEY5JwBKQBb,,,,,32.60650634765625,-117.0579986572265625,anonymous,EN,goals,heads,,Sell your shares,,,,,,30,Male,,Media,,5,4,8,0
-2021-06-02 09:31:58,2021-06-02 09:34:38,IP Address,70.122.6.13,100,160,True,2021-06-02 09:34:39,R_2zCKDiCbJuqWdiO,,,,,30.5153961181640625,-97.6688995361328125,anonymous,EN,goals,heads,,,,,Sell your shares,,,28,Male,,Management,,6,7,7,1
-2021-06-02 09:33:34,2021-06-02 09:34:49,IP Address,99.56.247.237,100,75,True,2021-06-02 09:34:50,R_3NIYlRxHBTyTVw1,,,,,35.4010009765625,-80.86879730224609375,anonymous,EN,GOALS,Heads,,,,,,,Hold your shares,40,Female,,Other,Artificial Intelligence,1,1,7,2
-2021-06-02 09:32:45,2021-06-02 09:34:58,IP Address,72.74.198.170,100,133,True,2021-06-02 09:34:59,R_YSKa1GfFPdpr7RD,,,,,42.077392578125,-71.0446014404296875,anonymous,EN,GOALS,Heads,Sell your shares,,,,,,,65,Female,,Operations,,1,3,2,0
-2021-06-02 09:34:51,2021-06-02 09:35:18,IP Address,174.48.238.47,100,26,True,2021-06-02 09:35:18,R_1n6maOW5S96imaC,,,,,26.0702972412109375,-80.22480010986328125,anonymous,EN,goals,heads,,,,,Hold your shares,,,33,Male,,Management,,3,2,6,2
-2021-06-02 09:34:27,2021-06-02 09:35:25,IP Address,98.24.153.185,100,57,True,2021-06-02 09:35:26,R_1n2PCB8VU28MM5P,,,,,35.2494049072265625,-81.38120269775390625,anonymous,EN,GOALS,Heads,Hold your shares,,,,,,,36,Male,,Media,,6,8,5,1
-2021-06-02 09:32:26,2021-06-02 09:35:48,IP Address,165.91.157.219,100,201,True,2021-06-02 09:35:48,R_3qKFtYhWZMYAHQj,,,,,30.5478057861328125,-96.2714996337890625,anonymous,EN,GOALS,Heads,,,,Hold your shares,,,,30,Female,,Other,higher education,1,3,2,0
-2021-06-02 09:35:14,2021-06-02 09:35:58,IP Address,108.237.12.92,100,43,True,2021-06-02 09:35:58,R_80oWKAa8abCmUEh,,,,,41.9459991455078125,-87.70330047607421875,anonymous,EN,GOALS,Heads,,,,,,Hold your shares,,33,Male,,Finance,,5,8,8,2
-2021-06-02 09:34:40,2021-06-02 09:36:20,IP Address,209.237.107.2,100,99,True,2021-06-02 09:36:21,R_26gKh7YmPEYyIeu,,,,,45.0115966796875,-93.03510284423828125,anonymous,EN,GOALS,Heads,,,,,,,Hold your shares,36,Male,,Other,education,4,6,8,4
-2021-06-02 09:35:30,2021-06-02 09:37:07,IP Address,71.204.66.115,100,96,True,2021-06-02 09:37:07,R_2QoBrmNSgSEMDqw,,,,,33.8520050048828125,-84.11519622802734375,anonymous,EN,goals,heads,,Hold your shares,,,,,,26,Male,,Operations,,3,2,8,20
-2021-06-02 09:37:19,2021-06-02 09:38:19,IP Address,66.38.103.191,100,60,True,2021-06-02 09:38:19,R_1NFIkzz7tbESEGP,,,,,36.7613983154296875,-86.192901611328125,anonymous,EN,GOALS,Heads,,,,,,Hold your shares,,31,Male,,Other,Sales,2,3,5,2.5
-2021-06-02 09:36:53,2021-06-02 09:38:29,IP Address,192.40.202.200,100,96,True,2021-06-02 09:38:30,R_1Ebs9LMD2ULrzbi,,,,,41.7689056396484375,-71.475799560546875,anonymous,EN,GOALS,Heads,,,,Sell your shares,,,,42,Male,,Operations,,1,3,5,0
-2021-06-02 09:36:28,2021-06-02 09:38:36,IP Address,173.92.47.230,100,127,True,2021-06-02 09:38:36,R_10SDQuZ0IWvPkZ1,,,,,35.415496826171875,-80.6143035888671875,anonymous,EN,goals,heads,,,,,,,Hold your shares,34,Female,,Other,Unemployed,1,2,2,1
-2021-06-02 09:37:54,2021-06-02 09:38:40,IP Address,147.206.1.19,100,46,True,2021-06-02 09:38:40,R_33qzGlIkIJELB6q,,,,,30.0034942626953125,-90.060699462890625,anonymous,EN,goals,heads,,Hold your shares,,,,,,32,Female,,Health care,,1,1,3,1
-2021-06-02 09:36:07,2021-06-02 09:38:43,IP Address,97.118.127.228,100,155,True,2021-06-02 09:38:43,R_0HsUdvuKnjyXanf,,,,,39.7628021240234375,-105.02629852294921875,anonymous,EN,goals,Heads,,,,Sell your shares,,,,65,Male,,Other,Specialized support,3,7,2,0
-2021-06-02 09:38:29,2021-06-02 09:39:16,IP Address,96.19.154.110,100,46,True,2021-06-02 09:39:16,R_6MtBE12JL2StgIh,,,,,42.4718017578125,-96.35489654541015625,anonymous,EN,Goals,Heads,,,,,Sell your shares,,,30,Female,,Health care,,1,,1,0
-2021-06-02 09:39:18,2021-06-02 09:40:07,IP Address,137.148.113.99,100,49,True,2021-06-02 09:40:07,R_10oxgUxl4sKzdgW,,,,,41.534393310546875,-81.53189849853515625,anonymous,EN,Goals,Heads,Sell your shares,,,,,,,43,Female,,Operations,,1,1,10,40
-2021-06-02 09:39:38,2021-06-02 09:40:22,IP Address,72.180.248.240,100,43,True,2021-06-02 09:40:22,R_2AGSkS0Vaf0yP4g,,,,,25.9243927001953125,-97.4626007080078125,anonymous,EN,GOALS,Heads,,,,Sell your shares,,,,28,Female,,Operations,,3,5,2,20
-2021-06-02 09:39:44,2021-06-02 09:41:49,IP Address,173.170.193.236,100,125,True,2021-06-02 09:41:49,R_7NwJWcrwMdqndZL,,,,,28.38360595703125,-82.5110015869140625,anonymous,EN,GOALS,Heads,,,,,Sell your shares,,,53,Male,,Management,,2,4,7,5
-2021-06-02 09:39:44,2021-06-02 09:42:05,IP Address,184.155.107.68,100,140,True,2021-06-02 09:42:05,R_1E4cGR6inYaq9p6,,,,,33.581298828125,-85.83209991455078125,anonymous,EN,goals,heads,,,,,,,Sell your shares,55,Male,,Operations,,3,5,4,1
-2021-06-02 09:39:55,2021-06-02 09:42:32,IP Address,97.102.137.184,100,156,True,2021-06-02 09:42:32,R_vDfFbEJvcoX5CbD,,,,,29.1566009521484375,-81.02680206298828125,anonymous,EN,GOALS,HEADS,,Hold your shares,,,,,,65,Male,,Other,retail,1,3,3,1
-2021-06-02 09:41:04,2021-06-02 09:43:05,IP Address,65.191.119.80,100,120,True,2021-06-02 09:43:05,R_3G0KGa9jhSZ3qut,,,,,35.0596923828125,-79.00579833984375,anonymous,EN,GOALS,Heads,,,,,,Hold your shares,,33,Female,,Finance,,1,2,5,0
-2021-06-02 09:42:27,2021-06-02 09:43:26,IP Address,73.106.162.17,100,58,True,2021-06-02 09:43:26,R_2q8DGGA7kIjHCog,,,,,34.203704833984375,-84.1031036376953125,anonymous,EN,GOALS,Heads,,,,,,Hold your shares,,43,Male,,Management,,7,9,7,1
-2021-06-02 09:42:38,2021-06-02 09:44:06,IP Address,45.30.182.124,100,87,True,2021-06-02 09:44:06,R_2Ez410Hnm7fLXnO,,,,,33.9441070556640625,-118.197998046875,anonymous,EN,GOALS,heads,,,,,Hold your shares,,,28,Male,,Finance,,1,3,9,10
-2021-06-02 09:42:28,2021-06-02 09:44:14,IP Address,45.51.163.11,100,106,True,2021-06-02 09:44:14,R_RK8p7lMggE0m1xv,,,,,33.744293212890625,-116.9763946533203125,anonymous,EN,goals,heads,,Hold your shares,,,,,,39,Male,,Other,Shipping and distribution,2,4,10,2
-2021-06-02 09:42:08,2021-06-02 09:44:36,IP Address,108.50.171.166,100,148,True,2021-06-02 09:44:37,R_3003chagZJpeNMA,,,,,40.631500244140625,-74.5102996826171875,anonymous,EN,goals,Heads,,,,Sell your shares,,,,43,Male,,Operations,,1,6,4,0
-2021-06-02 09:41:42,2021-06-02 09:44:39,IP Address,24.183.94.103,100,177,True,2021-06-02 09:44:39,R_1LzcLUXOVYxY8em,,,,,44.9510040283203125,-89.53350067138671875,anonymous,EN,GOALS,Heads,Hold your shares,,,,,,,52,Female,,Operations,,1,4,1,0
-2021-06-02 09:43:40,2021-06-02 09:44:45,IP Address,162.199.164.185,100,64,True,2021-06-02 09:44:46,R_3dxIdxIDsgbWGXv,,,,,33.1909027099609375,-96.6197967529296875,anonymous,EN,GOALS,heads,,,,,,,Sell your shares,40,Male,,Operations,,2,4,10,3
-2021-06-02 09:43:25,2021-06-02 09:45:31,IP Address,71.47.35.254,100,125,True,2021-06-02 09:45:31,R_2lsMbpDN6zL9YSB,,,,,28.30560302734375,-81.41970062255859375,anonymous,EN,goals,heads,Hold your shares,,,,,,,33,Female,,Operations,,1,3,5,1
-2021-06-02 09:44:08,2021-06-02 09:46:06,IP Address,69.250.194.88,100,118,True,2021-06-02 09:46:06,R_3sBSlMswAhbeCWg,,,,,38.80780029296875,-77.05229949951171875,anonymous,EN,GOALS,Heads,,Sell your shares,,,,,,44,Male,,Health care,,1,1,1,0
-2021-06-02 09:43:50,2021-06-02 09:46:23,IP Address,96.231.209.179,100,153,True,2021-06-02 09:46:24,R_3qQI5Owhd7esOJR,,,,,38.9636993408203125,-77.60990142822265625,anonymous,EN,GOALS,Heads,,,,,Sell your shares,,,35,Female,,Other,Entertainment,2,6,9,5
-2021-06-02 09:43:36,2021-06-02 09:47:22,IP Address,73.1.236.102,100,225,True,2021-06-02 09:47:22,R_1IEFyRkRuotY7p4,,,,,27.393707275390625,-80.31749725341796875,anonymous,EN,GOALS,Heads,,,,,,,Sell your shares,39,Male,,Other,retail sales,3,6,10,7
-2021-06-02 09:45:45,2021-06-02 09:47:22,IP Address,199.241.224.99,100,97,True,2021-06-02 09:47:23,R_2R3tnocQoVlekZ6,,,,,42.514404296875,-90.69300079345703125,anonymous,EN,GOALS,Heads,,,,Sell your shares,,,,33,Male,,Media,,7,7,9,15
-2021-06-02 09:41:38,2021-06-02 09:47:47,IP Address,24.161.100.104,100,369,True,2021-06-02 09:47:48,R_30l65INdKwnu191,,,,,41.7978973388671875,-74.3025970458984375,anonymous,EN,GOALS,Heads,Hold your shares,,,,,,,33,Male,,Other,Graphic Design,1,3,5,2
-2021-06-02 09:46:07,2021-06-02 09:47:56,IP Address,162.245.45.18,100,108,True,2021-06-02 09:47:56,R_3PMQNCW2FkXFuAp,,,,,35.3155059814453125,-89.90360260009765625,anonymous,EN,Goals,Heads,,Sell your shares,,,,,,43,Female,,Management,,5,6,1,0
-2021-06-02 09:45:09,2021-06-02 09:48:01,IP Address,199.116.157.211,100,171,True,2021-06-02 09:48:01,R_32QSNZj1voywU9A,,,,,37.3350067138671875,-83.035797119140625,anonymous,EN,GOALS,Heads,,,,,,Hold your shares,,35,Male,,Other,Software Development,5,5,8,2
-2021-06-02 09:47:05,2021-06-02 09:48:20,IP Address,76.89.220.116,100,74,True,2021-06-02 09:48:20,R_PXqIAUe4be5l8nn,,,,,33.92120361328125,-118.14239501953125,anonymous,EN,GOALS,Heads,,,,,Sell your shares,,,29,Male,,Operations,,3,5,7,2
-2021-06-02 09:42:42,2021-06-02 09:48:43,IP Address,73.112.156.125,100,360,True,2021-06-02 09:48:43,R_3PGqLf2DL8MW76L,,,,,39.860198974609375,-74.82469940185546875,anonymous,EN,Goals,heads,,,,Hold your shares,,,,28,Female,,Other,customer setvice,1,3,1,0
-2021-06-02 09:47:33,2021-06-02 09:49:16,IP Address,107.130.1.209,100,102,True,2021-06-02 09:49:16,R_er2KwfCNyE7iMwh,,,,,33.444305419921875,-86.75360107421875,anonymous,EN,GOALS,Heads,,,,,,,Sell your shares,40,Male,,Finance,,8,8,6,2
-2021-06-02 09:47:58,2021-06-02 09:50:12,IP Address,68.113.240.74,100,133,True,2021-06-02 09:50:12,R_qJfW8hw2rzp8PZL,,,,,44.04840087890625,-92.4947967529296875,anonymous,EN,GOALS,Heads,Sell your shares,,,,,,,68,Male,,Management,,6,8,7,1
-2021-06-02 09:48:15,2021-06-02 09:50:20,IP Address,107.77.225.109,100,124,True,2021-06-02 09:50:20,R_28A5PknVUCypBTg,,,,,40.76519775390625,-73.95880126953125,anonymous,EN,GOALS,Heads,,,,,,Sell your shares,,33,Male,,Health care,,9,8,10,20
-2021-06-02 09:49:27,2021-06-02 09:50:30,IP Address,136.58.103.117,100,62,True,2021-06-02 09:50:31,R_djylKEGcAEbVdOV,,,,,36.15789794921875,-86.86080169677734375,anonymous,EN,goals,Heads,,Sell your shares,,,,,,36,Female,,Management,,5,6,8,3
-2021-06-02 09:49:40,2021-06-02 09:50:47,IP Address,107.142.215.204,100,66,True,2021-06-02 09:50:47,R_2rU55qIHmiPJxE7,,,,,34.0290069580078125,-118.4004974365234375,anonymous,EN,GOALS,Heads,,,,,,Hold your shares,,33,Male,,Operations,,3,5,8,2
-2021-06-02 09:50:49,2021-06-02 09:52:03,IP Address,70.59.90.193,100,74,True,2021-06-02 09:52:04,R_1r6T0YXiDy2qcNM,,,,,44.9402008056640625,-93.21880340576171875,anonymous,EN,GOALS,Heads,,,,Sell your shares,,,,39,Male,,Other,Administrative,2,3,5,0
-2021-06-02 09:52:51,2021-06-02 09:53:48,IP Address,162.211.38.100,100,57,True,2021-06-02 09:53:48,R_1guz1MTtmeCVU6I,,,,,38.7613067626953125,-85.4066009521484375,anonymous,EN,goals,heads,,,,,,,Sell your shares,42,Female,,Management,,5,4,3,4
-2021-06-02 09:53:22,2021-06-02 09:54:50,IP Address,75.132.176.211,100,88,True,2021-06-02 09:54:51,R_3PYbISNcYLX2Dlo,,,,,38.568206787109375,-89.8964996337890625,anonymous,EN,GOALS,Heads,Sell your shares,,,,,,,46,Female,,Health care,,1,1,1,5
-2021-06-02 09:53:41,2021-06-02 09:55:54,IP Address,24.247.160.137,100,132,True,2021-06-02 09:55:54,R_yL6kWIO7ORgd0D7,,,,,43.6381072998046875,-84.20290374755859375,anonymous,EN,goals,heads,,,,,Sell your shares,,,41,Male,,Other,Mturk,8,9,9,10
-2021-06-02 09:55:04,2021-06-02 09:56:10,IP Address,108.67.76.206,100,65,True,2021-06-02 09:56:10,R_3KZ1UWP9DPsYrvd,,,,,35.6172943115234375,-87.03170013427734375,anonymous,EN,GOALS,Heads,,Sell your shares,,,,,,31,Female,,Other,unemployed,1,5,7,2
-2021-06-02 09:55:16,2021-06-02 09:56:25,IP Address,73.242.53.176,100,68,True,2021-06-02 09:56:25,R_1GIzOKQrU9OAfSQ,,,,,45.17010498046875,-93.1912994384765625,anonymous,EN,Goals,Heads,,,,,,,Hold your shares,32,Female,,Health care,,2,2,2,1
-2021-06-02 09:54:54,2021-06-02 09:56:26,IP Address,174.192.132.222,100,92,True,2021-06-02 09:56:27,R_27TdUxrAFKMSQSV,,,,,42.046905517578125,-88.1051025390625,anonymous,EN,Goals,Heads,,,,,Sell your shares,,,36,Male,,Health care,,6,6,8,1
-2021-06-02 09:53:58,2021-06-02 09:56:30,IP Address,47.158.14.188,100,152,True,2021-06-02 09:56:30,R_27lOrLtf0KeSrHm,,,,,33.7209014892578125,-116.21720123291015625,anonymous,EN,GOALS,Heads,,,,Hold your shares,,,,47,Male,,Finance,,1,5,2,1
-2021-06-02 09:54:02,2021-06-02 09:56:47,IP Address,75.189.6.90,100,164,True,2021-06-02 09:56:47,R_3EMeuk15lBtkD1d,,,,,33.8820037841796875,-80.40399932861328125,anonymous,EN,goals,heads,,,,,,Hold your shares,,41,Female,,Other,freelance,1,7,5,0
-2021-06-02 09:56:12,2021-06-02 09:57:22,IP Address,98.224.139.163,100,70,True,2021-06-02 09:57:22,R_3j7q7b2OInte4fC,,,,,42.238494873046875,-83.1782989501953125,anonymous,EN,Goals,Heads,,,,Sell your shares,,,,26,Male,,Operations,,7,7,6,2
-2021-06-02 09:56:02,2021-06-02 09:57:23,IP Address,67.0.61.100,100,80,True,2021-06-02 09:57:23,R_3nV2YZIRPLQVb6q,,,,,35.1410064697265625,-106.71099853515625,anonymous,EN,goals,heads,Hold your shares,,,,,,,37,Female,,Other,data entry,1,2,2,0
-2021-06-02 09:56:04,2021-06-02 09:57:35,IP Address,76.113.112.174,100,90,True,2021-06-02 09:57:35,R_2tchy75lBHsVik1,,,,,32.233306884765625,-107.74530029296875,anonymous,EN,GOALS,Heads,,,,,,Sell your shares,,33,Male,,Other,Freelance,5,6,7,1
-2021-06-02 09:56:37,2021-06-02 09:58:05,IP Address,173.24.227.204,100,88,True,2021-06-02 09:58:06,R_1dy2NhJviRjvK2F,,,,,37.167999267578125,-93.30390167236328125,anonymous,EN,goals,heads,Sell your shares,,,,,,,40,Male,,Operations,,3,3,8,1
-2021-06-02 09:57:49,2021-06-02 09:58:26,IP Address,75.38.182.192,100,36,True,2021-06-02 09:58:27,R_22ui2ByAOONBfeJ,,,,,42.568603515625,-83.066802978515625,anonymous,EN,goals,heads,,,,,Hold your shares,,,33,Male,,Management,,5,5,5,1
-2021-06-02 09:58:13,2021-06-02 10:00:05,IP Address,66.188.188.198,100,111,True,2021-06-02 10:00:05,R_3Mg1pqdP6y3jB4O,,,,,44.6627960205078125,-93.153900146484375,anonymous,EN,goals,heads,,Hold your shares,,,,,,31,Male,,Other,Construction,6,7,7,5
-2021-06-02 09:59:15,2021-06-02 10:00:42,IP Address,75.176.120.196,100,86,True,2021-06-02 10:00:42,R_3NVE1t0gPTnNty1,,,,,33.973907470703125,-81.2344970703125,anonymous,EN,goals,heads,,,,,,,Hold your shares,27,Male,,Other,Technology,3,3,8,30
-2021-06-02 10:00:10,2021-06-02 10:00:57,IP Address,67.250.12.32,100,47,True,2021-06-02 10:00:57,R_BLNEHbfGdhMK3Ml,,,,,40.7584075927734375,-73.79730224609375,anonymous,EN,GOALS,Heads,,,,,Hold your shares,,,44,Female,,Operations,,2,3,5,6
-2021-06-02 09:58:27,2021-06-02 10:01:22,IP Address,74.77.153.81,100,174,True,2021-06-02 10:01:22,R_1OwdhsnWVe6Ird4,,,,,43.003692626953125,-78.84960174560546875,anonymous,EN,goals,heads,,,,Hold your shares,,,,28,Female,,Finance,,2,2,8,1
-2021-06-02 09:56:09,2021-06-02 10:02:07,IP Address,35.138.238.49,100,358,True,2021-06-02 10:02:07,R_pDHVhucmhJfqoud,,,,,28.141204833984375,-82.59310150146484375,anonymous,EN,goals,heads,,,,,,Hold your shares,,36,Male,,Operations,,3,6,8,3
-2021-06-02 10:01:31,2021-06-02 10:03:28,IP Address,74.218.131.66,100,116,True,2021-06-02 10:03:28,R_Uo3TJpnD2ASwVnr,,,,,38.2104949951171875,-85.6269989013671875,anonymous,EN,GOALS,HEADS,Hold your shares,,,,,,,31,Female,,Management,,1,3,1,0
-2021-06-02 10:03:08,2021-06-02 10:04:08,IP Address,199.90.15.3,100,59,True,2021-06-02 10:04:08,R_1HjKwoQFn76meGC,,,,,35.7613983154296875,-78.60150146484375,anonymous,EN,GOALS,Heads,,Sell your shares,,,,,,60,Female,,Other,government,1,5,1,0
-2021-06-02 10:04:19,2021-06-02 10:05:59,IP Address,76.16.102.238,100,100,True,2021-06-02 10:06:00,R_741l4LOFWeng6FX,,,,,41.9031982421875,-87.63829803466796875,anonymous,EN,GOALS,Heads,,,,,,,Sell your shares,55,Female,,Finance,,1,7,1,1
-2021-06-02 10:04:30,2021-06-02 10:07:25,IP Address,66.108.127.0,100,175,True,2021-06-02 10:07:26,R_2xS3vwufo1Ps3xG,,,,,40.6757965087890625,-73.8162994384765625,anonymous,EN,goals,heads,,,,,,,Hold your shares,27,Female,,Other,unemployed,1,2,7,2
-2021-06-02 10:11:40,2021-06-02 10:12:37,IP Address,209.122.250.74,100,57,True,2021-06-02 10:12:38,R_3I4WpUweeneEST7,,,,,40.7427978515625,-73.97119903564453125,anonymous,EN,GOALS,Heads,,Hold your shares,,,,,,38,Male,,Finance,,5,6,5,1
-2021-06-02 10:20:52,2021-06-02 10:22:19,IP Address,107.77.237.194,100,87,True,2021-06-02 10:22:19,R_2zGSeIOcCzD0r4y,,,,,37.751007080078125,-97.82199859619140625,anonymous,EN,GOALS,Heads,,,,,Sell your shares,,,35,Male,,Other,,5,5,8,4
-2021-06-02 10:33:56,2021-06-02 10:34:37,IP Address,76.181.2.146,100,41,True,2021-06-02 10:34:37,R_2TYJzPW4noVZWFX,,,,,39.40570068359375,-87.4026031494140625,anonymous,EN,GOALS,Heads,Sell your shares,,,,,,,38,Male,,Operations,,1,2,10,5
-2021-06-02 11:04:12,2021-06-02 11:05:18,IP Address,173.24.175.223,100,65,True,2021-06-02 11:05:18,R_dcljW8YOeNtN86R,,,,,42.51220703125,-90.7384033203125,anonymous,EN,GOALS,Heads,,,,,,Sell your shares,,28,Male,,Media,,2,3,6,330
+A1,B1,C1,A2,B2,C2,age,gender,job,job_6_TEXT,hedgefunds,stocks,Q31,Q33
+,,,,0,,20,Male,Health care,,1,1,1,1
+1,,,,,,34,Male,Finance,,7,7,5,0
+,1,,,,,39,Male,Operations,,8,7,9,2
+,,,,0,,27,Female,Operations,,10,10,10,12
+,,,0,,,20,Female,Other,Student,1,1,2,0
+,,1,,,,44,Male,Management,,4,6,4,0
+,,,1,,,33,Male,Finance,,10,9,10,5
+,,0,,,,30,Female,Other,data entry,1,1,3,1
+,,1,,,,39,Male,Other,Insurance,5,7,10,1
+1,,,,,,26,Male,Other,Insurance,3,4,6,3
+,,,,1,,51,Female,Other,Zookeeper,1,1,1,0
+1,,,,,,47,Male,Operations,,8,8,5,0
+,,,,,0,24,Male,Other,Mturk,2,3,2,1
+,,,1,,,37,Female,Other,self employed,5,6,7,40
+,1,,,,,37,Female,Other,Office/Clerical Work ,1,3,10,3
+,,,,,1,39,Male,Operations,,8,8,5,1
+,0,,,,,49,Male,Operations,,2,7,2,1
+,1,,,,,25,Male,Management,,8,8,9,10
+,,,,,0,33,Male,Operations,,3,5,9,10
+,,,1,,,24,Female,Other,unemployed,2,2,7,10
+0,,,,,,33,Female,Other,customer service,1,2,5,2
+1,,,,,,33,Female,Management,,2,2,1,1
+,,0,,,,45,Male,Finance,,8,9,7,4
+,,,,,1,52,Male,Other,retired,9,10,3,0
+,,0,,,,25,Female,Health care,,3,5,10,4
+,,,,1,,51,Male,Other,,1,5,3,5
+,,,,0,,32,Male,Media,,4,5,6,1
+,,,0,,,37,Female,Health care,,1,2,6,6
+1,,,,,,35,Non-binary,Health care,,2,3,9,1
+,,1,,,,24,Male,Finance,,6,7,10,2
+,,,0,,,33,Female,Health care,,1,1,9,2
+,,,,1,,39,Male,Operations,,3,3,9,15
+,1,,,,,25,Male,Operations,,4,4,8,20
+,,,1,,,31,Male,Finance,,7,8,9,3
+,1,,,,,42,Male,Finance,,5,5,5,2
+,,,,,0,46,Male,Other,freelance,7,9,8,3
+,0,,,,,48,Female,Other,education,1,1,1,0
+,,,,,0,32,Male,Media,,6,7,7,5
+0,,,,,,58,Female,Other,Retired Construction Superintendant,1,3,3,1
+0,,,,,,34,Male,Media,,8,6,7,9
+,,1,,,,30,Male,Other,gig worker,1,2,8,7
+,,,,0,,31,Male,Management,,7,7,9,15
+,,,,,0,35,Female,Media,,1,1,10,3
+,,,1,,,26,Female,Operations,,1,2,1,0
+,,,,0,,51,Male,Other,Education,3,5,7,6
+,1,,,,,44,Male,Operations,,1,5,6,3
+,,,,,1,27,Female,Health care,,5,5,8,3
+1,,,,,,44,Male,Finance,,5,9,10,10
+0,,,,,,50,Male,Management,,7,9,5,0
+,,,,1,,45,Male,Other,artist and agriculture,5,6,6,1
+,,,,1,,36,Male,Management,,5,6,7,10
+,,1,,,,46,Male,Other,Retail,4,5,4,4
+,,0,,,,34,Male,Other,Education,3,7,5,1
+,1,,,,,35,Male,Other,,7,9,8,15
+0,,,,,,39,Male,Health care,,5,5,10,14
+,,,1,,,44,Male,Health care,,4,7,8,0
+,,,,,0,62,Female,Other,not employed,1,5,1,0
+,,1,,,,39,Female,Finance,,5,10,10,5
+,,,,,0,36,Female,Finance,,2,5,2,0
+,,,0,,,35,Male,Other,Law Enforcement,1,3,10,30
+,,,,,1,62,Female,Other,data,1,1,2,1
+,,,,1,,37,Female,Finance,,7,8,6,2
+,0,,,,,68,Male,Management,,7,9,9,3
+0,,,,,,46,Male,Operations,,2,2,2,1
+,,,,0,,30,Male,Other,Unemployed,1,4,10,5
+,0,,,,,41,Female,Other,freelancer,1,3,7,5
+,,,1,,,24,Female,Management,,3,5,9,3
+,0,,,,,44,Male,Other,skilled trades,3,5,6,20
+,1,,,,,29,Male,Media,,6,7,9,2
+,,0,,,,67,Female,Other,retired,3,7,5,2
+,,,,0,,42,Female,Finance,,7,8,4,0
+,,,,,0,54,Female,Operations,,1,3,1,0
+,,,1,,,26,Female,Health care,,2,6,4,1
+1,,,,,,33,Female,Other,manufacturing,1,1,5,1
+,,1,,,,40,Female,Finance,,3,5,5,0
+,1,,,,,34,Male,Finance,,8,9,7,10
+,,,,,1,45,Male,Other,EDUCATION,1,3,5,30
+,,,1,,,30,Male,Other,Nonprofit,7,8,7,0.5
+,,,,1,,37,Male,Health care,,7,7,7,120
+,,1,,,,25,Male,Other,Student,3,3,8,6
+,,,,1,,25,Male,Other,Education,6,8,8,4
+0,,,,,,64,Female,Other,ADMINISTRATION,1,2,5,1
+,,,,,1,38,Female,Other,Homemaker,8,8,7,5
+,,,1,,,31,Male,Management,,6,7,2,0
+1,,,,,,26,Female,Health care,,1,1,9,5
+,,0,,,,50,Male,Health care,,1,3,1,0
+,,,,,1,20,Male,Other,,2,3,9,1
+0,,,,,,30,Male,Finance,,8,9,5,0
+,,,1,,,38,Male,Operations,,4,5,6,1
+,,,1,,,30,Male,Operations,,2,4,3,0
+0,,,,,,26,Female,Operations,,4,4,4,2
+,,,,,1,27,Male,Other,Crowdworker,4,7,9,20
+,1,,,,,32,Male,Health care,,1,3,7,10
+,1,,,,,20,Male,Finance,,7,8,8,10
+,,0,,,,31,Male,Management,,4,4,5,2
+,1,,,,,74,Male,Other,Retired Computer Programmer,1,2,1,0
+,1,,,,,24,Male,Finance,,8,8,5,0
+,,1,,,,54,Female,Other,Sales,1,1,8,2
+,,,,,0,44,Male,Operations,,1,4,4,0
+1,,,,,,41,Male,Other,graphic design,3,4,6,3
+,,,,0,,28,Male,Operations,,2,3,9,8
+,,,1,,,29,Male,Other,Law,7,8,6,1
+,,,,0,,40,Male,Other,it,4,6,10,5
+,,,,0,,33,Male,Management,,1,3,7,4
+,1,,,,,26,Male,Other,service/entertainment (music performer),1,2,5,21
+,,0,,,,26,Male,Other,Unemployed,2,5,8,12
+,,,,0,,20,Male,Finance,,8,7,8,2
+,,1,,,,35,Male,Other,law student,6,8,10,5
+1,,,,,,40,Male,Other,Retail,3,5,7,1
+,,,,0,,19,Male,Operations,,7,7,1,0
+,0,,,,,37,Male,Other,disabled,1,3,9,5
+0,,,,,,25,Female,Management,,1,5,7,5
+,,,,,0,41,Female,Other,mTurk freelancer,1,6,7,1
+,,,,,0,25,Male,Other,food services,8,8,5,4
+,,,1,,,48,Male,Health care,,5,8,1,0
+,,,1,,,40,Male,Finance,,7,8,10,10
+,,,0,,,52,Male,Operations,,2,4,3,0
+,,,,1,,35,Male,Other,Freelancer,3,4,6,1
+1,,,,,,27,Male,Other,Unemployed,2,3,8,16
+,0,,,,,33,Male,Operations,,3,4,5,10
+,,0,,,,33,Male,Health care,,7,6,7,2
+,0,,,,,35,Male,Other,arts,6,5,10,3
+,,0,,,,31,Female,Management,,1,2,8,20
+,,,,,0,72,Female,Other,RETIRED,3,7,1,0
+1,,,,,,25,Male,Health care,,3,5,8,6
+,,,0,,,24,Female,Operations,,1,2,8,10
+,,,,,0,32,Male,Other,Math,3,6,10,7
+,,,,0,,71,Female,Other,retired,2,6,3,0
+,,0,,,,37,Male,Finance,,2,4,4,2
+,,,,0,,34,Male,Operations,,1,2,7,30
+,1,,,,,30,Male,Media,,5,4,8,0
+,,,1,,,28,Male,Management,,6,7,7,1
+,,,,,0,40,Female,Other,Artificial Intelligence,1,1,7,2
+1,,,,,,65,Female,Operations,,1,3,2,0
+,,,0,,,33,Male,Management,,3,2,6,2
+0,,,,,,36,Male,Media,,6,8,5,1
+,,0,,,,30,Female,Other,higher education,1,3,2,0
+,,,,0,,33,Male,Finance,,5,8,8,2
+,,,,,0,36,Male,Other,education,4,6,8,4
+,0,,,,,26,Male,Operations,,3,2,8,20
+,,,,0,,31,Male,Other,Sales,2,3,5,2.5
+,,1,,,,42,Male,Operations,,1,3,5,0
+,,,,,0,34,Female,Other,Unemployed,1,2,2,1
+,0,,,,,32,Female,Health care,,1,1,3,1
+,,1,,,,65,Male,Other,Specialized support,3,7,2,0
+,,,1,,,30,Female,Health care,,1,,1,0
+1,,,,,,43,Female,Operations,,1,1,10,40
+,,1,,,,28,Female,Operations,,3,5,2,20
+,,,1,,,53,Male,Management,,2,4,7,5
+,,,,,1,55,Male,Operations,,3,5,4,1
+,0,,,,,65,Male,Other,retail,1,3,3,1
+,,,,0,,33,Female,Finance,,1,2,5,0
+,,,,0,,43,Male,Management,,7,9,7,1
+,,,0,,,28,Male,Finance,,1,3,9,10
+,0,,,,,39,Male,Other,Shipping and distribution,2,4,10,2
+,,1,,,,43,Male,Operations,,1,6,4,0
+0,,,,,,52,Female,Operations,,1,4,1,0
+,,,,,1,40,Male,Operations,,2,4,10,3
+0,,,,,,33,Female,Operations,,1,3,5,1
+,1,,,,,44,Male,Health care,,1,1,1,0
+,,,1,,,35,Female,Other,Entertainment,2,6,9,5
+,,,,,1,39,Male,Other,retail sales,3,6,10,7
+,,1,,,,33,Male,Media,,7,7,9,15
+0,,,,,,33,Male,Other,Graphic Design,1,3,5,2
+,1,,,,,43,Female,Management,,5,6,1,0
+,,,,0,,35,Male,Other,Software Development,5,5,8,2
+,,,1,,,29,Male,Operations,,3,5,7,2
+,,0,,,,28,Female,Other,customer setvice,1,3,1,0
+,,,,,1,40,Male,Finance,,8,8,6,2
+1,,,,,,68,Male,Management,,6,8,7,1
+,,,,1,,33,Male,Health care,,9,8,10,20
+,1,,,,,36,Female,Management,,5,6,8,3
+,,,,0,,33,Male,Operations,,3,5,8,2
+,,1,,,,39,Male,Other,Administrative,2,3,5,0
+,,,,,1,42,Female,Management,,5,4,3,4
+1,,,,,,46,Female,Health care,,1,1,1,5
+,,,1,,,41,Male,Other,Mturk,8,9,9,10
+,1,,,,,31,Female,Other,unemployed,1,5,7,2
+,,,,,0,32,Female,Health care,,2,2,2,1
+,,,1,,,36,Male,Health care,,6,6,8,1
+,,0,,,,47,Male,Finance,,1,5,2,1
+,,,,0,,41,Female,Other,freelance,1,7,5,0
+,,1,,,,26,Male,Operations,,7,7,6,2
+0,,,,,,37,Female,Other,data entry,1,2,2,0
+,,,,1,,33,Male,Other,Freelance,5,6,7,1
+1,,,,,,40,Male,Operations,,3,3,8,1
+,,,0,,,33,Male,Management,,5,5,5,1
+,0,,,,,31,Male,Other,Construction,6,7,7,5
+,,,,,0,27,Male,Other,Technology,3,3,8,30
+,,,0,,,44,Female,Operations,,2,3,5,6
+,,0,,,,28,Female,Finance,,2,2,8,1
+,,,,0,,36,Male,Operations,,3,6,8,3
+0,,,,,,31,Female,Management,,1,3,1,0
+,1,,,,,60,Female,Other,government,1,5,1,0
+,,,,,1,55,Female,Finance,,1,7,1,1
+,,,,,0,27,Female,Other,unemployed,1,2,7,2
+,0,,,,,38,Male,Finance,,5,6,5,1
+,,,1,,,35,Male,Other,,5,5,8,4
+1,,,,,,38,Male,Operations,,1,2,10,5
+,,,,1,,28,Male,Media,,2,3,6,330
